@@ -1,0 +1,4 @@
+{
+  "name": "OpenClaw",
+  "install": "pnpm install --frozen-lockfile && pnpm build && pnpm ui:build"
+}
